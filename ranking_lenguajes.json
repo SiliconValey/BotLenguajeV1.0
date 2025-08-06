@@ -1,0 +1,42 @@
+[
+    {
+        "lenguaje": "C",
+        "porcentaje": 76.29415275427719
+    },
+    {
+        "lenguaje": "C++",
+        "porcentaje": 6.60426239329209
+    },
+    {
+        "lenguaje": "TypeScript",
+        "porcentaje": 4.637903707913232
+    },
+    {
+        "lenguaje": "Dart",
+        "porcentaje": 4.420562129676539
+    },
+    {
+        "lenguaje": "Python",
+        "porcentaje": 3.232082511296603
+    },
+    {
+        "lenguaje": "MLIR",
+        "porcentaje": 0.6283162075532135
+    },
+    {
+        "lenguaje": "Assembly",
+        "porcentaje": 0.5407691371094272
+    },
+    {
+        "lenguaje": "Jupyter Notebook",
+        "porcentaje": 0.5254936435973876
+    },
+    {
+        "lenguaje": "JavaScript",
+        "porcentaje": 0.4766099235682785
+    },
+    {
+        "lenguaje": "HTML",
+        "porcentaje": 0.4683883910663148
+    }
+]
